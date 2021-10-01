@@ -1,9 +1,9 @@
 {
-    "name": "projekod/roundcolor",
+    "name": "nohn/roundcolor",
     "type": "library",
-    "description": "It finds the nearest base color of given color from the given base color list",
+    "description": "It finds the nearest base color of given color from the given base color list. This is a fork of projekod/roundcolor that seems abandoned",
     "keywords": ["color","colour"],
-    "homepage": "https://github.com/Projekod/RoundColor",
+    "homepage": "https://github.com/nohn/RoundColor",
     "license": "MIT",
     "authors": [
         {
@@ -11,7 +11,13 @@
             "email": "ali@projekod.com",
             "homepage": "http://projekod.com",
             "role": "Developer"
-        }
+        },
+        {
+            "name": "Ali GUNDOGDU",
+            "email": "ali@projekod.com",
+            "homepage": "http://projekod.com",
+            "role": "Developer"
+        }	
     ],
     "require": {
         "php": ">=5.3.0"
